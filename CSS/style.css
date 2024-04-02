@@ -1,0 +1,19 @@
+section.top_header {
+    background-color: 	#018749;
+    color: 	#FFFF00;
+    height: 40px;
+    font-size: 14px;
+  }
+  
+  section.top_header .socials i {
+    margin: 0px 2px;
+    cursor: pointer;
+  }
+  
+  section.top_header .contact .number_wrapper {
+    padding-right: 20px;
+  }
+  
+  section.top_header .contact * {
+    letter-spacing: 0.5px;
+  }
