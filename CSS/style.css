@@ -51,5 +51,38 @@ section.info_overview .get_email_wrapper button {
 
  /* info_overview end */
 
- /* Community Sign Up end */
+ /* Community Sign Up start */
+ section.community {
+  background-color: #ececec;
+}
+
+section.community .s_up_process {
+  background-color: #ffffff;
+  padding: 40px 35px;
+  box-shadow: 0px 0px 5px 1px #00000047;
+}
+
+section.community h3 {
+  padding: 30px;
+}
+
+section.community .s_up_bottom {
+  padding-top: 30px;
+}
+
+section.community .s_up_bottom .s_up_bottom_icon .bottom_icon {
+  color: #5db442;
+  background-color: #ffffff;
+  border: 1px solid #5db442;
+  height: 45px;
+  width: 45px;
+  border-radius: 50%;
+  cursor: pointer;
+  line-height: 45px;
+}
+
+section.community .s_up_process .s_up_main_wrapper i.fas.fa-sign-in-alt {
+  font-size: 60px;
+  color: #5db442;
+}
  /* Community Sign Up end */
