@@ -23,3 +23,33 @@ section.top_header {
     height: 70px;
     font-size: 14px;
   }
+
+  /* info_overview start */
+
+  section.info_overview {
+    background-color: #FFE4E1;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+section.info_overview img {
+  padding-bottom: 11%;
+}
+
+section.info_overview .get_email_wrapper input {
+  outline: none;
+  padding: 5px 20px;
+  border-radius: 25px;
+  border: 2.5px solid #37804e;
+}
+
+section.info_overview .get_email_wrapper button {
+  width: 85px;
+  border-radius: 25px;
+  border: 2.5px solid #37804e;
+}
+
+ /* info_overview end */
+
+ /* Community Sign Up end */
+ /* Community Sign Up end */
