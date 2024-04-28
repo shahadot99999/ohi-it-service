@@ -11,9 +11,15 @@ section.top_header {
   }
   
   section.top_header .contact .number_wrapper {
-    padding-right: 20px;
+    padding-right: 15px;
   }
   
   section.top_header .contact * {
     letter-spacing: 0.5px;
+  }
+
+  section.top_header_another{
+    background-color: 	#ffffff;
+    height: 70px;
+    font-size: 14px;
   }
