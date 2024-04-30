@@ -31,6 +31,11 @@ section.top_header {
     text-align: center;
     padding-bottom: 30px;
 }
+section.info_overview h3 {
+  text-decoration: underline;
+  text-decoration-color: rgb(255, 42, 4);
+  
+}
 
 section.info_overview img {
   padding-bottom: 11%;
@@ -55,6 +60,10 @@ section.info_overview .get_email_wrapper button {
  section.community {
   background-color: #ececec;
   
+}
+section.community h3 {
+ text-decoration: underline;
+ text-decoration-color: brown;  
 }
 
 section.community .s_up_process {
@@ -92,6 +101,11 @@ section.community .s_up_process .s_up_main_wrapper i.fas.fa-sign-in-alt {
  section.package_sec{
   background-color: #fff6dcea;
   padding: 80px 0px;
+ }
+
+ section.package_sec .container h3{
+  text-decoration: underline;
+  text-decoration-color: black;
  }
 
  section.package_sec .or_option_wrapper {
@@ -132,12 +146,12 @@ section.community .s_up_process .s_up_main_wrapper i.fas.fa-sign-in-alt {
 }
 
 .package_sec .box_wrapper .box {
-  border: 1px solid #ececec;
+  border: 1px solid #1a0808;
   padding: 50px 0px;
   overflow: hidden;
   width: 330px;
   position: relative;
-  transition: 0.3s;
+ 
   cursor: pointer;
   margin-bottom: 20px;
 }
@@ -214,6 +228,11 @@ section.analysis {
   padding: 80px 0px;
 }
 
+section.analysis .container h3 {
+  text-decoration: underline;
+  text-decoration-color: rgb(5, 240, 5);
+}
+
 section.analysis .container .cards_wrapper {
   padding-top: 40px;
 }
@@ -222,8 +241,8 @@ section.analysis .container .cards_wrapper {
 section.analysis .container .cards_wrapper .cards {
   width: 260px;
   margin-bottom: 20px;
-  border: 2px solid #d4d4d4;
-  background-color: #ffffff;
+  border: 2px solid #290101;
+  background-color: #f5cee098;
   padding: 40px 10px;
  
 }
@@ -231,6 +250,7 @@ section.analysis .container .cards_wrapper .cards {
 section.analysis .container .cards_wrapper .cards h4 {
   font-size: 20px;
   color: #222222;
+  text-decoration: underline;
   padding-top: 15px;
 }
 section.analysis .container .cards_wrapper .cards p {
