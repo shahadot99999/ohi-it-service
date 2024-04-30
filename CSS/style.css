@@ -206,3 +206,45 @@ section.community .s_up_process .s_up_main_wrapper i.fas.fa-sign-in-alt {
 }
 
 /*Affordable Services Package end */
+   
+/* A Comprehensive Data start */
+
+section.analysis {
+  background-color: #fbfbfb;
+  padding: 80px 0px;
+}
+
+section.analysis .container .cards_wrapper {
+  padding-top: 40px;
+}
+
+
+section.analysis .container .cards_wrapper .cards {
+  width: 260px;
+  margin-bottom: 20px;
+  border: 2px solid #d4d4d4;
+  background-color: #ffffff;
+  padding: 40px 10px;
+ 
+}
+
+section.analysis .container .cards_wrapper .cards h4 {
+  font-size: 20px;
+  color: #222222;
+  padding-top: 15px;
+}
+section.analysis .container .cards_wrapper .cards p {
+  margin-top: 30px;
+  line-height: 1.7;
+  color: #929292;
+  font-size: 12.5px;
+}
+section.analysis .container .cards_wrapper .cards i {
+  color: #5db442;
+  font-size: 60px;
+  border-bottom: 2px solid #c4c4c4;
+  padding-bottom: 20px;
+}
+
+
+/* A Comprehensive Data end */
