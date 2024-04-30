@@ -248,3 +248,33 @@ section.analysis .container .cards_wrapper .cards i {
 
 
 /* A Comprehensive Data end */
+
+/* Foooter start */
+section.footer {
+  background-color: #ececec;
+  padding: 45px  0px;
+}
+
+section.bottom_foot {
+  background-color: #ececec;
+  border-top: 1px solid #929292;
+  
+}
+
+section.footer ul {
+  list-style: none;
+  margin-top: 10px;
+}
+
+section.footer .news_letter .inp_wrapper button {
+  width: 55px;
+  height: 45px;
+  border: none;
+  outline: none;
+  background-color: #5db442;
+  color: #ffffff;
+  right: 0;
+}
+
+
+/* Footer End */
